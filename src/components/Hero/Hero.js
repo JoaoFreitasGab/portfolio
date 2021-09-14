@@ -13,9 +13,9 @@ const Hero = (props) => (
           Sejam Bem Vindos ao meu Portfolio.
         </SectionTitle>
         <SectionText>
-       Me chamo João Gabriel e sou Desenvolvedor Front End Freelancer e nas horas vagas apirante a músico.
+       Me chamo João Gabriel sou Web Designer e Desenvolvedor Front End Freelancer e nas horas vagas apirante a músico.
         </SectionText>
-        <Button onClick={props.handleClick}>Saiba Mais</Button>
+        {/* <Button onClick={props.handleClick} to="/">Saiba Mais</Button> */}
       </LeftSection>
     </Section>
   </>
