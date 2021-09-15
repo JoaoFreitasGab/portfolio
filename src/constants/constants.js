@@ -8,15 +8,7 @@ export const projects = [
   
     id: 0,
   },
-  {
-    title: 'Banco Digital',
-    description:"Projeto de anuncio de um Banco 100% digital feito em totalmente React com smooth scroll. ",
-    image: '/images/3.PNG',
-    tags: ['React', 'JavaScript','HTML'],
-    source: 'https://google.com',
-   
-    id: 1,
-  },
+ 
   {
     title: 'Pizzaria',
       description: "Projeto de uma pizzaria feito em React com cardápio integrado e com o uso de styled components. ",
